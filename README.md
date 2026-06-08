@@ -34,7 +34,7 @@ Download a checkpoint from the [SAM 2 model zoo](https://github.com/facebookrese
 
 | Checkpoint | Speed (CPU) | Accuracy |
 |---|---|---|
-| `sam2.1_hiera_tiny.pt` | ⚡ Fastest | Good |
+| `sam2.1_hiera_tiny.pt` | Fastest | Good |
 | `sam2.1_hiera_small.pt` | Fast | Better |
 | `sam2.1_hiera_large.pt` | Slow | Best |
 
